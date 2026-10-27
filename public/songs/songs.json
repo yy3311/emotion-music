@@ -1,0 +1,18 @@
+{
+  "name": "心频本地曲库",
+  "license": "所有曲目均为免版权音乐（CC BY 4.0），作者 Kevin MacLeod (incompetech.com)",
+  "songs": [
+    { "id": "l1",  "title": "Cheery Monday",                "artist": "Kevin MacLeod", "file": "Cheery Monday.mp3",                "v": 0.85, "a": 0.70, "tags": ["happy"],                  "quality": 0.75 },
+    { "id": "l2",  "title": "Monkeys Spinning Monkeys",     "artist": "Kevin MacLeod", "file": "Monkeys Spinning Monkeys.mp3",     "v": 0.80, "a": 0.90, "tags": ["happy", "surprised"],       "quality": 0.80 },
+    { "id": "l3",  "title": "Brightly Fancy",               "artist": "Kevin MacLeod", "file": "Brightly Fancy.mp3",               "v": 0.88, "a": 0.75, "tags": ["happy", "surprised"],       "quality": 0.70 },
+    { "id": "l4",  "title": "Peppy Pepe",                   "artist": "Kevin MacLeod", "file": "Peppy Pepe.mp3",                   "v": 0.80, "a": 0.80, "tags": ["happy", "surprised"],       "quality": 0.65 },
+    { "id": "l5",  "title": "Heartbreaking",                "artist": "Kevin MacLeod", "file": "Heartbreaking.mp3",                "v": 0.12, "a": 0.25, "tags": ["sad"],                      "quality": 0.80 },
+    { "id": "l6",  "title": "Peaceful Desolation",          "artist": "Kevin MacLeod", "file": "Peaceful Desolation.mp3",          "v": 0.30, "a": 0.20, "tags": ["sad"],                      "quality": 0.70 },
+    { "id": "l7",  "title": "Scheming Weasel (faster)",     "artist": "Kevin MacLeod", "file": "Scheming Weasel faster.mp3",       "v": 0.25, "a": 0.85, "tags": ["angry", "disgusted"],       "quality": 0.70 },
+    { "id": "l8",  "title": "Prelude and Action",           "artist": "Kevin MacLeod", "file": "Prelude and Action.mp3",           "v": 0.25, "a": 0.90, "tags": ["angry", "fearful"],         "quality": 0.75 },
+    { "id": "l9",  "title": "Ghost Dance",                  "artist": "Kevin MacLeod", "file": "Ghost Dance.mp3",                  "v": 0.20, "a": 0.55, "tags": ["fearful"],                  "quality": 0.70 },
+    { "id": "l10", "title": "Fluffing a Duck",              "artist": "Kevin MacLeod", "file": "Fluffing a Duck.mp3",              "v": 0.55, "a": 0.80, "tags": ["disgusted", "happy"],       "quality": 0.70 },
+    { "id": "l11", "title": "Canon In D Interstellar Mix",  "artist": "Kevin MacLeod", "file": "Canon In D Interstellar Mix.mp3",  "v": 0.65, "a": 0.25, "tags": ["neutral"],                   "quality": 0.85 },
+    { "id": "l12", "title": "Sincerely",                    "artist": "Kevin MacLeod", "file": "Sincerely.mp3",                    "v": 0.60, "a": 0.35, "tags": ["neutral"],                   "quality": 0.70 }
+  ]
+}
