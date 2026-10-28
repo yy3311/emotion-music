@@ -1,0 +1,11 @@
+{
+  "samples": [
+    { "file": "happy.jpg",      "emotion": "happy",      "label": "开心" },
+    { "file": "sad.jpg",        "emotion": "sad",        "label": "悲伤" },
+    { "file": "angry.jpg",      "emotion": "angry",      "label": "愤怒" },
+    { "file": "fearful.jpg",    "emotion": "fearful",    "label": "恐惧" },
+    { "file": "disgusted.jpg",  "emotion": "disgusted",  "label": "厌恶" },
+    { "file": "surprised.jpg",  "emotion": "surprised",  "label": "惊讶" },
+    { "file": "neutral.jpg",    "emotion": "neutral",    "label": "中性" }
+  ]
+}
